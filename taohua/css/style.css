@@ -1,0 +1,14 @@
+.bg{
+    background: red;
+}
+.carousel-inner img {
+    width:100%;
+    }
+    .touMingDiv{  
+        width:800px;  
+        min-height:300px;  
+        color:#fff;  
+        background:rgba(0,0,0,0.6);  
+        background:#000 9;/*CSS Hack,只能对ie9以下浏览器ie6,ie7,ie8有效，否侧ie10,FF,Cherome会失去透明效果*/  
+        filter:Alpha(opacity=60);/*只对ie7,ie8有效*/  
+    }
