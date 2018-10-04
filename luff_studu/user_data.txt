@@ -1,0 +1,1 @@
+{"user1":"{'password':'pass','money':'','buy':'[]'}","user2":"{'password':'pass','money':'','buy':'[]'}","user3":"{'password':'pass','money':'','buy':'[]'}"}
